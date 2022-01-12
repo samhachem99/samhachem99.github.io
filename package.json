@@ -2,8 +2,9 @@
   "name": "samhachem99.github.io",
   "version": "1.0.0",
   "description": "A Professional Website for Sam Hachem",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
