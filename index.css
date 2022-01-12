@@ -33,6 +33,21 @@ a:hover {
     font-family: sans-serif;
 }
 
+@media only screen and (max-width: 767px){
+    .card {
+        width: 100%;
+        padding: 5%;
+        margin-top: 15%;
+    }
+    
+}
+
+@media only screen and (max-width: 1024px){
+    .card {
+        width: 400px
+    }
+}
+
 .card img {
     margin: auto;
     margin-top: 15px;
