@@ -1,2 +1,2 @@
-# samhachem99.github.io
+# SAM HACHEM
 A Graduate Student with specialization in Software Engineering, Embedded Systems, and Architecture
