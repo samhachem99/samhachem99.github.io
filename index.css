@@ -1,16 +1,17 @@
 body { 
     background-image:url('UIUC-ECE-07.jpg');
-    background-origin: content-box;
-    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 { 
     color: white;
-    font-weight: bold;
+    font-size: 50px;
 }
 
 p {
     color: white;
+    font-size: 30px;
 }
 
 .top_buffer {
