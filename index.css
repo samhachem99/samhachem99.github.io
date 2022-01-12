@@ -1,7 +1,6 @@
 body { 
     background-image:url('UIUC-ECE-07.jpg');
     background-origin: content-box;
-    background-position: center;
     background-size: contain;
 }
 
