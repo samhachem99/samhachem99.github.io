@@ -3,8 +3,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #13294b;
+    color: white;
 }
 
+/* 
+orange = E84A27
+blue = 13294b
+*/
 
 a {
     text-decoration: none;
@@ -19,11 +24,11 @@ a:hover {
 .card {
     margin: auto;
     margin-top: 5%;
-    width: 30%;
-    border-radius: 7px;
-    box-shadow: 0px 0px 10px #13294b5e;
+    width: 28%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #E84A275e;
     padding: 15px;
-    background-color: #13294b67;
+    background-color: #E84A2767;
     text-align: center;
     font-family: sans-serif;
 }
@@ -37,7 +42,6 @@ a:hover {
 }
 
 .card h1 {
-    color: white;
     font-size: 50px;
     letter-spacing: 2px;
     font-weight: 100;
@@ -45,13 +49,11 @@ a:hover {
 }
 
 .card h5 {
-    color: white;
     font-size: 20px;
     font-weight: 100;
 }
 
 .card p {
-    color: white;
     font-size: 20px;
     font-weight: 100;
 }
@@ -75,6 +77,6 @@ a:hover {
 }
 
 .card li a:hover {
-    color: #E84A27;
+    color: #13294b;
 }
 
