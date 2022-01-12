@@ -1,2 +1,2 @@
 # samhachem99.github.io
-A Professional Website for Sam Hachem
+A Graduate Student with specialization in Software Engineering, Embedded Systems, and Architecture
