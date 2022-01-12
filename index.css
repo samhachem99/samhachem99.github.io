@@ -34,15 +34,9 @@ a:hover {
     font-family: sans-serif;
 }
 
-@media only screen and (min-width: 2048px){
-    .card {
-        width: 33%;
-    }
-}
-
 @media only screen and (max-width: 1668px){
     .card {
-        width: 35%;
+        width: 30%;
     }
 }
 
@@ -52,14 +46,14 @@ a:hover {
     }
 }
 
-@media only screen and (max-width: 767px){
+/* @media only screen and (max-width: 448px){
     .card {
         width: 100%;
         padding: 3%;
         margin-top: 10%;
     }
     
-}
+} */
 
 .card img {
     margin: auto;
