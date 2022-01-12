@@ -26,9 +26,9 @@ a:hover {
     margin-top: 5%;
     width: 28%;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px #E84A275e;
+    box-shadow: 0px 0px 10px #13294b5e;
     padding: 15px;
-    background-color: #E84A2767;
+    background-color: #13294b67;
     text-align: center;
     font-family: sans-serif;
 }
@@ -92,6 +92,6 @@ a:hover {
 }
 
 .card li a:hover {
-    color: #13294b;
+    color: #E84A27;
 }
 
